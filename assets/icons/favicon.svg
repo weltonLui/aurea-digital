@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Áurea Digital</title>
+  <desc id="descricao">Monograma Á dourado sobre fundo azul-marinho.</desc>
+  <rect width="64" height="64" rx="14" fill="#07132f"/>
+  <rect x="4" y="4" width="56" height="56" rx="11" fill="none" stroke="#d4ad52" stroke-width="2"/>
+  <path d="M16 52 32 14l16 38M23 38h18" fill="none" stroke="#efd797" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path fill="#efd797" d="m28 11 8-7 4 2.7-9 5.8Z" transform="translate(5 -3)"/>
+</svg>
